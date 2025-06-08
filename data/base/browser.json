@@ -1,150 +1,29 @@
 {
-    "name": "Web Tarayıcı",
-    "version": "1.0.0",
-    "parameter": "menu:request:interaction:init",
-    "type": "list",
-    "headline": "🌐 Web Tarayıcı",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:language",
-        "color": "msx-glass"
-    },
-    "items": [
-        {
-            "title": "Yeni Sekme",
-            "titleFooter": "Boş sayfa ile başla",
-            "icon": "add",
-            "color": "msx-blue",
-            "action": "web:https://www.google.com"
-        },
-        {
-            "title": "Ana Sayfa",
-            "titleFooter": "Google ana sayfası",
-            "icon": "home",
-            "color": "msx-red",
-            "action": "web:https://www.google.com"
-        },
-        {
-            "type": "separator",
-            "title": "🔖 Hızlı Erişim"
-        },
-        {
-            "title": "YouTube",
-            "titleFooter": "Video izleme platformu",
-            "icon": "play_circle_filled",
-            "color": "msx-red",
-            "action": "web:https://www.youtube.com"
-        },
-        {
-            "title": "Netflix",
-            "titleFooter": "Film ve dizi platformu",
-            "icon": "movie",
-            "color": "msx-red",
-            "action": "web:https://www.netflix.com"
-        },
-        {
-            "title": "Twitch",
-            "titleFooter": "Canlı yayın platformu",
-            "icon": "videogame_asset",
-            "color": "msx-purple",
-            "action": "web:https://www.twitch.tv"
-        },
-        {
-            "title": "Spotify",
-            "titleFooter": "Müzik dinleme servisi",
-            "icon": "music_note",
-            "color": "msx-green",
-            "action": "web:https://open.spotify.com"
-        },
-        {
-            "title": "BBC News",
-            "titleFooter": "Dünya haberleri",
-            "icon": "article",
-            "color": "msx-orange",
-            "action": "web:https://www.bbc.com/news"
-        },
-        {
-            "title": "Wikipedia",
-            "titleFooter": "Özgür ansiklopedi",
-            "icon": "menu_book",
-            "color": "msx-gray",
-            "action": "web:https://www.wikipedia.org"
-        },
-        {
-            "type": "separator",
-            "title": "🇹🇷 Türkiye Siteleri"
-        },
-        {
-            "title": "TRT İzle",
-            "titleFooter": "Türkiye Radyo Televizyon",
-            "icon": "tv",
-            "color": "msx-blue",
-            "action": "web:https://www.trtizle.com"
-        },
-        {
-            "title": "Hürriyet",
-            "titleFooter": "Güncel haberler",
-            "icon": "newspaper",
-            "color": "msx-red",
-            "action": "web:https://www.hurriyet.com.tr"
-        },
-        {
-            "title": "Sahibinden",
-            "titleFooter": "İlan sitesi",
-            "icon": "shopping_cart",
-            "color": "msx-yellow",
-            "action": "web:https://www.sahibinden.com"
-        },
-        {
-            "title": "Hava Durumu",
-            "titleFooter": "Meteoroloji genel müdürlüğü",
-            "icon": "wb_sunny",
-            "color": "msx-cyan",
-            "action": "web:https://www.mgm.gov.tr"
-        },
-        {
-            "type": "separator",
-            "title": "⚙️ Tarayıcı Ayarları"
-        },
-        {
-            "title": "URL Gir",
-            "titleFooter": "Manuel adres girişi",
-            "icon": "link",
-            "color": "msx-blue",
-            "action": "panel:request:menu:{context:url_input}"
-        },
-        {
-            "title": "Yer İmleri",
-            "titleFooter": "Kayıtlı sayfalar",
-            "icon": "bookmark",
-            "color": "msx-yellow",
-            "action": "content:request:interaction:load:https://mirac6100.github.io/msx/data/base/browser/bookmarks.json"
-        },
-        {
-            "title": "Geçmiş",
-            "titleFooter": "Ziyaret edilen sayfalar",
-            "icon": "history",
-            "color": "msx-gray",
-            "action": "content:request:interaction:load:https://mirac6100.github.io/msx/data/base/browser/history.json"
-        },
-        {
-            "title": "Çerezleri Temizle",
-            "titleFooter": "Tarayıcı verilerini sil",
-            "icon": "delete_sweep",
-            "color": "msx-red",
-            "action": "execute:clear:cookies"
-        },
-        {
-            "type": "separator",
-            "title": "🔙 Geri Dön"
-        },
-        {
-            "title": "Ana Menüye Dön",
-            "titleFooter": "Uygulama mağazasına geri dön",
-            "icon": "arrow_back",
-            "color": "msx-glass",
-            "action": "back"
-        }
-    ]
+   "name": "Web Browser",
+   "version": "1.0.0",
+   "parameter": "menu:request:interaction:init",
+   "type": "list",
+   "headline": "🌐 Web Tarayıcı",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:language",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Tarayıcıyı Başlat",
+         "titleFooter": "Proxyium'u başlat",
+         "icon": "launch",
+         "color": "msx-blue",
+         "action": "link:https://proxyium.com"
+      },
+      {
+         "title": "Ana Menüye Dön",
+         "titleFooter": "Uygulama mağazasına geri dön",
+         "icon": "arrow_back",
+         "color": "msx-glass",
+         "action": "back"
+      }
+   ]
 }
