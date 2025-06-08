@@ -1,0 +1,22 @@
+{
+   "name": "App Bazaar Yilmaz",
+   "version": "1.0.0",
+   "parameter": "menu:request:interaction:init",
+   "type": "list",
+   "headline": "📱 Uygulama Pazarı",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:get_app",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Web Browser",
+         "titleFooter": "TV için web tarayıcısı • v1.0.0",
+         "icon": "language",
+         "color": "msx-blue",
+         "action": "content:request:interaction:load:https://mirac6100.github.io/msx/data/base/browser.json"
+      }
+   ]
+}
