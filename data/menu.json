@@ -23,7 +23,24 @@
         
         {
             "type": "separator",
-            "label": "Yakında - TV Fonksiyonları"
+            "label": "TV Fonksiyonları"
+        },
+
+        {
+            "icon": "tv",
+            "label": "Televizyon Fonksiyonları",
+            "data": "https://mirac6100.github.io/msx/data/base/tvfonk.json"
+        },
+
+        {
+            "type": "seperator"
+            "label": "Çok Amaçlı Uygulamalar"
+        },
+
+        {
+            "icon": "app",
+            "label": "Uygulama Pazarı",
+            "data": "https://mirac6100.github.io/msx/data/base/uygpzr.json"
         }
     ]
 }
