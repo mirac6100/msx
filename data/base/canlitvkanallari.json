@@ -1,0 +1,102 @@
+{
+    "type": "pages",
+    "headline": "Canlı TV Kanalları",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "icon": "msx-white-soft:tv",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "background": "https://i.imgur.com/QcjwUQz.png",
+            "title": "ATV",
+            "playerLabel": "ATV Canlı",
+            "action": "video:https://trkvz.daioncdn.net/atv/atv_1080p.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/gVzT8Mk.png",
+            "title": "Show TV",
+            "playerLabel": "Show TV Canlı",
+            "action": "video:https://ciner.daioncdn.net/showtv/showtv.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/7QMKtEy.png",
+            "title": "TRT 1",
+            "playerLabel": "TRT 1 Canlı",
+            "action": "video:https://tv-trt1.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/e2BDOQV.png",
+            "title": "Kanal 7",
+            "playerLabel": "Kanal 7 Canlı",
+            "action": "video:https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/xJz5KqT.png",
+            "title": "Star TV",
+            "playerLabel": "Star TV Canlı",
+            "action": "video:https://dogus-live.daioncdn.net/startv/startv.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/rJ4LGxN.png",
+            "title": "FOX",
+            "playerLabel": "FOX Canlı",
+            "action": "video:https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/k7MGZPF.png",
+            "title": "TV8",
+            "playerLabel": "TV8 Canlı",
+            "action": "video:https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/VtqQwlK.png",
+            "title": "Kanal D",
+            "playerLabel": "Kanal D Canlı",
+            "action": "video:https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/7Fc5QHF.png",
+            "title": "TRT Haber",
+            "playerLabel": "TRT Haber Canlı",
+            "action": "video:https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/mXz5Mnz.png",
+            "title": "NTV",
+            "playerLabel": "NTV Canlı",
+            "action": "video:https://dogus-live.daioncdn.net/ntv/ntv.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/1GtJcGp.png",
+            "title": "CNN Türk",
+            "playerLabel": "CNN Türk Canlı",
+            "action": "video:https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/9bQdVJ3.png",
+            "title": "TRT Spor",
+            "playerLabel": "TRT Spor Canlı",
+            "action": "video:https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/XmXg5sH.png",
+            "title": "TRT Çocuk",
+            "playerLabel": "TRT Çocuk Canlı",
+            "action": "video:https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/4bNk7Tw.png",
+            "title": "TRT Müzik",
+            "playerLabel": "TRT Müzik Canlı",
+            "action": "video:https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/5vL8MXl.png",
+            "title": "TRT Belgesel",
+            "playerLabel": "TRT Belgesel Canlı",
+            "action": "video:https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+        }
+    ]
+}
