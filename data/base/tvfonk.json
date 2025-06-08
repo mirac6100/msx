@@ -1,4 +1,4 @@
- "type": "list",
+{ "type": "list",
     "headline": "TV Fonksiyonları",
     "template": {
         "type": "separate",
