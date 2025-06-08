@@ -1,5 +1,5 @@
 {
     "name": "Yılmaz Yardımcı Acil Toolkit",
     "version": "1.0.0",
-    "parameter": "menu:https://{SERVER}/msx/menu.json"
+    "parameter": "menu:https://{SERVER}/msx/data/menu.json"
 }
