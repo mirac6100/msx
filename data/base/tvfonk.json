@@ -1,0 +1,26 @@
+ "type": "list",
+    "headline": "TV Fonksiyonları",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:power",
+        "color": "msx-glass",
+        "selection": {
+            "important": true,
+            "action": "power:off"
+        }
+    },
+    "items": [
+        {
+            "title": "TV'yi Kapat",
+            "titleFooter": "Cihazı kapatır",
+            "action": "power:off"
+        }
+
+        {
+            "title": "MSX'i Kapat",
+            "titleFooter": "Media Station X uygulamasını kapatır.",
+            "action": "exit"
+        }
+    ]
+}
