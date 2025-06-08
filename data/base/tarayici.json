@@ -16,7 +16,7 @@
          "titleFooter": "Proxyium'u başlat",
          "icon": "launch",
          "color": "msx-blue",
-         "action": "content:user:https://proxyium.com"
+         "action": "content:user:https://croxyproxy.com"
       },
       {
          "title": "Ana Menüye Dön",
