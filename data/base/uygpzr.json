@@ -12,8 +12,8 @@
    },
    "items": [
       {
-         "title": "Web Browser",
-         "titleFooter": "TV için web tarayıcısı • v1.0.0",
+         "title": "Proxyium Web Browser",
+         "titleFooter": "TV için Proxyium web tarayıcısı • v1.0.0",
          "icon": "language",
          "color": "msx-blue",
          "action": "content:request:interaction:load:https://mirac6100.github.io/msx/data/base/browser.json"
