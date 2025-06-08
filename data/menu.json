@@ -1,0 +1,29 @@
+{
+    "headline": "Yılmaz Çok Amaçlı Yardımcı Toolkit",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Hoşgeldiniz",
+            "data": "https://mirac6100.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Canlı"
+        },
+        {
+            "icon": "movie",
+            "label": "Canlı TV Kanalları (Güncel 2025)",
+            "data": "https://mirac6100.github.io/msx/data/base/canlitvkanallari.json"
+        },
+        {
+            "icon": "music-note",
+            "label": "Canlı Radyo Kanalları",
+            "data": "https://mirac6100.github.io/msx/data/base/audios.json"
+        },
+        
+        {
+            "type": "separator",
+            "label": "Yakında - TV Fonksiyonları"
+        },
+    ]
+}
