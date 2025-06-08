@@ -1,0 +1,102 @@
+{
+    "type": "pages",
+    "headline": "Canlı Radyo Kanalları",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "icon": "msx-white-soft:radio",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "background": "https://i.imgur.com/powerFM.png",
+            "title": "Power FM",
+            "playerLabel": "Power FM - Canlı",
+            "action": "audio:https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio"
+        },
+        {
+            "background": "https://i.imgur.com/superFM.png",
+            "title": "Süper FM",
+            "playerLabel": "Süper FM - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/radyoD.png",
+            "title": "Radyo D",
+            "playerLabel": "Radyo D - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_DAAC.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/kral.png",
+            "title": "Kral FM",
+            "playerLabel": "Kral FM - Canlı",
+            "action": "audio:https://dygedge.radyotvonline.com/kralfm/playlist.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/slowTurk.png",
+            "title": "Slow Türk",
+            "playerLabel": "Slow Türk - Canlı",
+            "action": "audio:https://radyo.duhnet.tv/slowturk"
+        },
+        {
+            "background": "https://i.imgur.com/bestFM.png",
+            "title": "Best FM",
+            "playerLabel": "Best FM - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/BEST_FM.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/joyFM.png",
+            "title": "Joy FM",
+            "playerLabel": "Joy FM - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/virginRadio.png",
+            "title": "Virgin Radio",
+            "playerLabel": "Virgin Radio - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_TURKEY.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/metropolFM.png",
+            "title": "Metropol FM",
+            "playerLabel": "Metropol FM - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/METROPOL_FM.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/radyoViva.png",
+            "title": "Radyo Viva",
+            "playerLabel": "Radyo Viva - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_VIVA.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/trtFM.png",
+            "title": "TRT FM",
+            "playerLabel": "TRT FM - Canlı",
+            "action": "audio:https://radio-trtfm.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/trtRadyo3.png",
+            "title": "TRT Radyo 3",
+            "playerLabel": "TRT Radyo 3 - Canlı",
+            "action": "audio:https://radio-trtradyo3.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/numberOne.png",
+            "title": "Number One FM",
+            "playerLabel": "Number One FM - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1_FM.mp3"
+        },
+        {
+            "background": "https://i.imgur.com/radyoSeymen.png",
+            "title": "Radyo Seymen",
+            "playerLabel": "Radyo Seymen - Canlı",
+            "action": "audio:https://yayin.radyoseymen.com:4430/stream"
+        },
+        {
+            "background": "https://i.imgur.com/rockRadyo.png",
+            "title": "Rock Radyo",
+            "playerLabel": "Rock Radyo - Canlı",
+            "action": "audio:https://radyo.duhnet.tv/rockradyo"
+        }
+    ]
+}
