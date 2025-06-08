@@ -16,7 +16,7 @@
          "titleFooter": "TV için Proxyium web tarayıcısı • v1.0.0",
          "icon": "language",
          "color": "msx-blue",
-         "action": "content:load:https://mirac6100.github.io/msx/data/base/tarayici.json"
+         "action": "content:https://mirac6100.github.io/msx/data/base/tarayici.json"
       }
    ]
 }
