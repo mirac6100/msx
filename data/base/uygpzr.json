@@ -1,7 +1,7 @@
 {
    "name": "App Bazaar Yilmaz",
    "version": "1.0.0",
-   "parameter": "menu:request:interaction:init",
+   "parameter": "menu:request:init",
    "type": "list",
    "headline": "📱 Uygulama Pazarı",
    "template": {
@@ -16,7 +16,7 @@
          "titleFooter": "TV için Proxyium web tarayıcısı • v1.0.0",
          "icon": "language",
          "color": "msx-blue",
-         "action": "content:request:interaction:load:https://mirac6100.github.io/msx/data/base/browser.json"
+         "action": "content:load:https://mirac6100.github.io/msx/data/base/browser.json"
       }
    ]
 }
