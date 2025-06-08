@@ -1,5 +1,5 @@
 {
-    "name": "Yılmaz Yardımcı Acil Toolkit",
-    "version": "1.0.0",
+    "name": "Yılmaz Çok Amaçlı TV Toolkit",
+    "version": "1.1",
     "parameter": "menu:https://{SERVER}/msx/data/menu.json"
 }
