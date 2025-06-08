@@ -18,7 +18,7 @@
         {
             "icon": "music-note",
             "label": "Canlı Radyo Kanalları",
-            "data": "https://mirac6100.github.io/msx/data/base/audios.json"
+            "data": "https://mirac6100.github.io/msx/data/base/canliradyokanallari.json"
         },
         
         {
