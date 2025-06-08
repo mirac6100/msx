@@ -1,0 +1,19 @@
+{
+    "pages": [
+        {
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": "Yılmaz Çok Amaçlı TV Toolkit'ine Hoşgeldiniz.",
+                    "text": [
+                        "Bu parametre Miraç Tahircan Yılmaz tarafından hazırlanmıştır. Aileler için TV'lerinde yardımcı toolkitler kullanıma sunulmuştur.{br}{br}",
+                        "{ico:msx-white:play-arrow} Projenin kaynak dosyaları için lütfen ziyaret edin: {txt:msx-white:https://github.com/mirac6100/msx}.{br}",
+                        "İyi kullanımlar.{br}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
