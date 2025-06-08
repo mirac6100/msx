@@ -15,7 +15,7 @@
             "title": "TV'yi Kapat",
             "titleFooter": "Cihazı kapatır",
             "action": "power:off"
-        }
+        },
 
         {
             "title": "MSX'i Kapat",
