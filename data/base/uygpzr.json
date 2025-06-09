@@ -3,7 +3,7 @@
    "version": "1.0.0",
    "parameter": "menu:request:init",
    "type": "list",
-   "headline": "📱 Uygulama Pazarı",
+   "headline": "📱 Uygulama Pazarı ÇOK YAKINDA",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
