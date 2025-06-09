@@ -1,0 +1,11 @@
+{
+    "name": "Twitch MSX",
+    "version": "1.0.5",
+    "parameter": "menu:request:interaction:init@{PREFIX}{SERVER}/interaction",
+    "note": "Bu servis için, Media Station X'in 0.1.110 veya daha yüksek sürümü gereklid.",
+    "launcher": {
+        "parameter": "link:https://msx.benzac.de/?start=menu:request:interaction:init@{PREFIX}{SERVER}/interaction&leave=1&dictionary=custom",
+        "image": "http://launcher.msx.benzac.de/assets/ttv.png",
+        "color": "#8652f6"
+    }
+}
