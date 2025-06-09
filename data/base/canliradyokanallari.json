@@ -9,94 +9,94 @@
     },
     "items": [
         {
-            "background": "https://i.imgur.com/powerFM.png",
+            "background": "https://yilmaztools.rf.gd/msx/data/img/powerfm.png",
             "title": "Power FM",
             "playerLabel": "Power FM - Canlı",
-            "action": "audio:https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio"
+            "action": "audio:https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
         },
         {
-            "background": "https://i.imgur.com/superFM.png",
+            "background": "https://yilmaztools.rf.gd/msx/data/img/superfm.png",
             "title": "Süper FM",
             "playerLabel": "Süper FM - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_ITUNES.mp3"
         },
         {
-            "background": "https://i.imgur.com/radyoD.png",
+            "background": "https://yilmaztools.rf.gd/msx/data/img/radyod.png",
             "title": "Radyo D",
             "playerLabel": "Radyo D - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_DAAC.mp3"
+            "action": "audio:https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
         },
         {
-            "background": "https://i.imgur.com/kral.png",
+            "background": "https://yilmaztools.rf.gd/msx/data/img/kralfm.png",
             "title": "Kral FM",
             "playerLabel": "Kral FM - Canlı",
-            "action": "audio:https://dygedge.radyotvonline.com/kralfm/playlist.m3u8"
+            "action": "audio:https://dygedge2.radyotvonline.com/kralfm/playlist.m3u8"
         },
         {
-            "background": "https://i.imgur.com/slowTurk.png",
+            "background": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fd3cynltizvi9oa.cloudfront.net%2Fimage%2F85%2F330x175%2Flogo_86effc2be4.webp.webp&w=384&q=75",
             "title": "Slow Türk",
             "playerLabel": "Slow Türk - Canlı",
-            "action": "audio:https://radyo.duhnet.tv/slowturk"
+            "action": "audio:https://radyo.duhnet.tv/ak_dtvh_slowturk"
         },
         {
-            "background": "https://i.imgur.com/bestFM.png",
+            "background": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm.png",
             "title": "Best FM",
             "playerLabel": "Best FM - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/BEST_FM.mp3"
+            "action": "audio:https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8"
         },
         {
-            "background": "https://i.imgur.com/joyFM.png",
-            "title": "Joy FM",
-            "playerLabel": "Joy FM - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3"
+            "background": "https://upload.wikimedia.org/wikipedia/tr/6/61/JoyTurk_logosu.pngA",
+            "title": "Joy TÜRK",
+            "playerLabel": "Joy TÜRK - Canlı",
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM_ITUNES.mp3"
         },
         {
             "background": "https://i.imgur.com/virginRadio.png",
             "title": "Virgin Radio",
             "playerLabel": "Virgin Radio - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_TURKEY.mp3"
+            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3"
         },
         {
-            "background": "https://i.imgur.com/metropolFM.png",
-            "title": "Metropol FM",
-            "playerLabel": "Metropol FM - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/METROPOL_FM.mp3"
+            "background": "https://www.canliradyodinle.biz/img/mini/damar-fm.jpg",
+            "title": "Damar FM",
+            "playerLabel": "Damar FM - Canlı",
+            "action": "audio:https://yayin.damarfm.com/dinle/stream"
         },
         {
-            "background": "https://i.imgur.com/radyoViva.png",
+            "background": "https://i.ytimg.com/vi/equYSi9e4II/maxresdefault.jpg",
             "title": "Radyo Viva",
             "playerLabel": "Radyo Viva - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_VIVA.mp3"
+            "action": "audio:https://radyoviva.radyotvonline.net/radyovivaaac"
         },
         {
-            "background": "https://i.imgur.com/trtFM.png",
+            "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/1200px-TRT_FM_logo.svg.png",
             "title": "TRT FM",
             "playerLabel": "TRT FM - Canlı",
-            "action": "audio:https://radio-trtfm.medya.trt.com.tr/master.m3u8"
+            "action": "audio:https://trt.radyotvonline.net/trtfm"
         },
         {
-            "background": "https://i.imgur.com/trtRadyo3.png",
-            "title": "TRT Radyo 3",
-            "playerLabel": "TRT Radyo 3 - Canlı",
-            "action": "audio:https://radio-trtradyo3.medya.trt.com.tr/master.m3u8"
+            "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyonFjNAxZBWGczCXJwhoI3dYs9RtBYg0jw&s",
+            "title": "TRT Türkü",
+            "playerLabel": "TRT Türkü - Canlı",
+            "action": "https://rd-trtturku.medya.trt.com.tr/master.m3u8"
         },
         {
-            "background": "https://i.imgur.com/numberOne.png",
+            "background": "https://www.numberone.com.tr/wp-content/uploads/2015/11/number1_800914439.png",
             "title": "Number One FM",
             "playerLabel": "Number One FM - Canlı",
-            "action": "audio:https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1_FM.mp3"
+            "action": "audio:https://n10101m.mediatriple.net/numberone"
         },
         {
-            "background": "https://i.imgur.com/radyoSeymen.png",
+            "background": "https://radyoseymen.com.tr/wp-content/uploads/2023/04/radyo-seymen-logo1.png",
             "title": "Radyo Seymen",
             "playerLabel": "Radyo Seymen - Canlı",
-            "action": "audio:https://yayin.radyoseymen.com:4430/stream"
+            "action": "audio:https://yayin.radyoseymen.com.tr:1070/stream"
         },
         {
-            "background": "https://i.imgur.com/rockRadyo.png",
-            "title": "Rock Radyo",
-            "playerLabel": "Rock Radyo - Canlı",
-            "action": "audio:https://radyo.duhnet.tv/rockradyo"
+            "background": "https://www.radyokadirga.com/upload/radyokadirga%20(1).png",
+            "title": "Radyo Kadırga",
+            "playerLabel": "Radyo Kadırga - Canlı",
+            "action": "audio:https://radyo.yayin.com.tr:4022/;"
         }
     ]
 }
