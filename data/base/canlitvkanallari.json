@@ -12,19 +12,19 @@
             "background": "https://i.imgur.com/QcjwUQz.png",
             "title": "ATV",
             "playerLabel": "ATV Canlı",
-            "action": "video:https://trkvz.daioncdn.net/atv/atv_1080p.m3u8"
+            "action": "video:https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1749501578&st=0ZgiStGs8Ehsp9CsbRy2zQ&sid=7h8h9w7waijd&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
         },
         {
             "background": "https://i.imgur.com/gVzT8Mk.png",
             "title": "Show TV",
             "playerLabel": "Show TV Canlı",
-            "action": "video:https://ciner.daioncdn.net/showtv/showtv.m3u8"
+            "action": "video:https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7h8hbdnmnxur&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
         },
         {
             "background": "https://i.imgur.com/7QMKtEy.png",
             "title": "TRT 1",
             "playerLabel": "TRT 1 Canlı",
-            "action": "video:https://tv-trt1.medya.trt.com.tr/master.m3u8"
+            "action": "video:https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7h8hf5d29jap&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2"
         },
         {
             "background": "https://i.imgur.com/e2BDOQV.png",
@@ -42,7 +42,7 @@
             "background": "https://i.imgur.com/rJ4LGxN.png",
             "title": "FOX",
             "playerLabel": "FOX Canlı",
-            "action": "video:https://foxtv-live.daioncdn.net/foxtv/foxtv.m3u8"
+            "action": "video:https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1749513898&st=A1CahNMwXFqHqVZ6Aep-Sg"
         },
         {
             "background": "https://i.imgur.com/k7MGZPF.png",
@@ -72,7 +72,7 @@
             "background": "https://i.imgur.com/1GtJcGp.png",
             "title": "CNN Türk",
             "playerLabel": "CNN Türk Canlı",
-            "action": "video:https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8"
+            "action": "video:https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=KgjDsJapXDnFIxxj5Ry5lA&e=1749467592"
         },
         {
             "background": "https://i.imgur.com/9bQdVJ3.png",
@@ -97,6 +97,24 @@
             "title": "TRT Belgesel",
             "playerLabel": "TRT Belgesel Canlı",
             "action": "video:https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/5vL8MXl.png",
+            "title": "TGRT Haber",
+            "playerLabel": "TGRT Haber Canlı",
+            "action": "video:https://canli.tgrthaber.com/tgrt.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/5vL8MXl.png",
+            "title": "TV4",
+            "playerLabel": "TV4 Canlı",
+            "action": "video:https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8"
+        },
+        {
+            "background": "https://i.imgur.com/5vL8MXl.png",
+            "title": "360 TV",
+            "playerLabel": "360 TV Canlı",
+            "action": "video:https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
         }
     ]
 }
