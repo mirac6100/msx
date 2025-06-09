@@ -90,7 +90,7 @@
             "background": "https://radyoseymen.com.tr/wp-content/uploads/2023/04/radyo-seymen-logo1.png",
             "title": "Radyo Seymen",
             "playerLabel": "Radyo Seymen - Canlı",
-            "action": "audio:auto:plugin:https://yayin.radyoseymen.com.tr:1070/stream"
+            "action": "video:https://yayin.radyoseymen.com.tr:1070/stream"
         },
         {
             "background": "https://www.radyokadirga.com/upload/radyokadirga%20(1).png",
