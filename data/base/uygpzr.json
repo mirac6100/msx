@@ -1,9 +1,9 @@
 {
-   "name": "App Bazaar Yilmaz",
+   "name": "MiracTheDev App Bazaar",
    "version": "1.0.0",
    "parameter": "menu:request:init",
    "type": "list",
-   "headline": "📱 Uygulama Pazarı ÇOK YAKINDA",
+   "headline": "📱 Uygulama Pazarı ",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
@@ -12,11 +12,11 @@
    },
    "items": [
       {
-         "title": "Proxyium Web Browser",
-         "titleFooter": "TV için Proxyium web tarayıcısı • v1.0.0",
-         "icon": "language",
-         "color": "msx-blue",
-         "action": "content:https://mirac6100.github.io/msx/data/base/tarayici.json"
+         "title": "MSX için Soundcloud",
+         "titleFooter": "MSX için resmi Soundcloud.",
+         "icon": "https://launcher.msx.benzac.de/assets/sc.png",
+         "color": "msx-orange",
+         "action": "menu:https://launcher.msx.benzac.de/msx/start.json"
       }
    ]
 }
