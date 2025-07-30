@@ -1,1 +1,24 @@
+{ 
+  "type": "list",
+    "headline": "SoundCloud",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:music-note",
+        "color": "msx-glass",
+        }
+    },
+    "items": [
+        {
+            "title": "Trendler",
+            "titleFooter": "Trend olan müzikler",
+            "action": "menu:user:https://sc.msx.benzac.de/msx/service.php?type=trending"
+        },
 
+        {
+            "title": "Ara",
+            "titleFooter": "SoundCloud'da birşeyler aratın...",
+            "action": "menu:user:https://sc.msx.benzac.de/msx/service.php?type=search"
+        }
+    ]
+}
