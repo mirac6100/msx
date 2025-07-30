@@ -1,10 +1,14 @@
-  {
-    "server": "sc.msx.benzac.de",
-    "secure": false,
-    "name": "SoundCloud® MSX",
-    "version": "1.0.14",
-    "parameter": "menu:user:{PREFIX}{SERVER}/msx/service.php",
-    "icon": "blank",
-    "image": "http://launcher.msx.benzac.de/assets/sc.png",
-    "color": "#ff5500"
+{
+  "content": {
+    "server": {
+      "host": "sc.msx.benzac.de",
+      "secure": false,
+      "name": "SoundCloud® MSX",
+      "version": "1.0.14",
+      "parameter": "menu:user:{PREFIX}{SERVER}/msx/service.php",
+      "icon": "blank",
+      "image": "http://launcher.msx.benzac.de/assets/sc.png",
+      "color": "#ff5500"
+    }
   }
+}
