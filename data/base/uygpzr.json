@@ -7,7 +7,7 @@
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
-      "icon": "msx-white-soft:get_app",
+      "icon": "msx-white:get-app",
       "color": "msx-glass"
    },
    "items": [
