@@ -1,5 +1,5 @@
 {
-    "name": "Yılmaz Çok Amaçlı TV Toolkit",
-    "version": "1.2",
+    "name": "MiracTheDev TV Kit",
+    "version": "BETA.1.1",
     "parameter": "menu:https://{SERVER}/msx/data/menu.json"
 }
