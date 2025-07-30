@@ -1,10 +1,10 @@
-{
+  {
+    "server": "sc.msx.benzac.de",
+    "secure": false,
     "name": "SoundCloud® MSX",
-    "version": "1.0.15",
-    "parameter": "menu:user:https://sc.msx.benzac.de/msx/service.php",
-    "note": "For this service, Media Station X 0.1.97 or higher is needed.",
-    "launcher": {
-        "image": "http://launcher.msx.benzac.de/assets/sc.png",
-        "color": "#ff5500"
-    }
-}
+    "version": "1.0.14",
+    "parameter": "menu:user:{PREFIX}{SERVER}/msx/service.php",
+    "icon": "blank",
+    "image": "http://launcher.msx.benzac.de/assets/sc.png",
+    "color": "#ff5500"
+  }
