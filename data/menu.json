@@ -28,19 +28,19 @@
 
         {
             "icon": "tv",
-            "label": "Televizyon Fonksiyonları",
+            "label": "BETA-Televizyon Fonksiyonları",
             "data": "https://mirac6100.github.io/msx/data/base/tvfonk.json"
         },
 
         {
             "type": "separator",
-            "label": "Çok Amaçlı Uygulamalar"
+            "label": "{ico:msx-white:arrow-right} MiracTheDev App Bazaar {ico:msx-white:arrow-left}"
         },
 
         {
             "icon": "app",
-            "label": "Uygulama Pazarı",
-            "data": "https://mirac6100.github.io/msx/data/base/uygpzr.json"
+            "label": "SoundCloud for MSX",
+            "data": "https://mirac6100.github.io/msx/data/base/scloud.json"
         }
     ]
 }
