@@ -1,14 +1,20 @@
 {
-  "content": {
-    "server": {
-      "host": "sc.msx.benzac.de",
-      "secure": false,
-      "name": "SoundCloud® MSX",
-      "version": "1.0.14",
-      "parameter": "menu:user:{PREFIX}{SERVER}/msx/service.php",
-      "icon": "blank",
-      "image": "http://launcher.msx.benzac.de/assets/sc.png",
-      "color": "#ff5500"
-    }
-  }
+   "type": "pages",
+   "headline": "SoundCloud® MSX",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#ff5500",
+               "icon": "msx-white-soft:music_note",
+               "iconSize": "medium",
+               "title": "SoundCloud® MSX",
+               "titleFooter": "v1.0.14",
+               "action": "content:http://sc.msx.benzac.de/msx/service.php"
+            }
+         ]
+      }
+   ]
 }
