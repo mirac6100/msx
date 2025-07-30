@@ -16,7 +16,7 @@
          "titleFooter": "MSX için resmi Soundcloud.",
          "image": "https://launcher.msx.benzac.de/assets/sc.png",
          "color": "orange",
-         "action": "panel:load:https://sc.msx.benzac.de/msx/server.php"
+         "action": "panel:https://sc.msx.benzac.de/msx/server.php"
       }
    ]
 }
