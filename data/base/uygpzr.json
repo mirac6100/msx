@@ -3,7 +3,7 @@
    "version": "1.0.0",
    "parameter": "menu:request:init",
    "type": "list",
-   "headline": "📱 Uygulama Pazarı ",
+   "headline": "TV Kit Uygulama Pazarı ",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
@@ -16,7 +16,7 @@
          "titleFooter": "MSX için resmi Soundcloud.",
          "image": "https://launcher.msx.benzac.de/assets/sc.png",
          "color": "orange",
-         "action": "menu:user:https://sc.msx.benzac.de/msx/server.php"
+         "action": "menu:https://sc.msx.benzac.de/msx/server.php"
       }
    ]
 }
