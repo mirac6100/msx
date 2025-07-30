@@ -40,7 +40,7 @@
         {
             "icon": "app",
             "label": "SoundCloud for MSX",
-            "data": "https://sc.msx.benzac.de/"
+            "data": "https://mirac6100.github.io/msx/data/base/scloud.json"
         }
     ]
 }
