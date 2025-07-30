@@ -6,11 +6,11 @@
                     "type": "default",
                     "layout": "0,0,12,6",
                     "color": "msx-glass",
-                    "headline": "Yılmaz Çok Amaçlı TV Toolkit'ine Hoşgeldiniz.",
+                    "headline": "MiracTheDev'in yapmış olduğu TV Kit'in BETA versiyonuna Hoşgeldiniz.",
                     "text": [
-                        "Bu proje Miraç Tahircan Yılmaz tarafından hazırlanmıştır. Aileler için TV'lerinde yardımcı toollar kullanıma sunulmuştur.{br}{br}",
+                        "Bu proje Miraç Tahircan Yılmaz tarafından hazırlanmıştır. Bu projenin amacı, gerekli tüm MSX araçlarını ve uygulamalarını kullanıcıyı yormadan, tek bir çatı altında toplamaktır.{br}{br}",
                         "{ico:msx-white:play-arrow} Projenin kaynak dosyaları için lütfen şu adresi ziyaret edin: {txt:msx-white:https://github.com/mirac6100/msx}.{br}",
-                        "| İyi kullanımlar. | {br}"
+                        "| {txt:msx-blue:İyi kullanımlar.} | {br}"
                     ]
                 }
             ]
