@@ -12,7 +12,7 @@
                "iconSize": "medium",
                "title": "SoundCloud® MSX",
                "titleFooter": "v1.0.14",
-               "action": "content:http://sc.msx.benzac.de/msx/service.php"
+               "action": "menu:http://sc.msx.benzac.de/msx/service.php"
             }
          ]
       }
