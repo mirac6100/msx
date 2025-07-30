@@ -12,12 +12,12 @@
       {
         "title": "Trendler",
         "titleFooter": "Trend olan müzikler",
-        "action": "menu:user:https://sc.msx.benzac.de/msx/service.php?type=trending"
+        "action": "menu:https://sc.msx.benzac.de/msx/service.php?type=trending"
       },
       {
         "title": "Ara",
         "titleFooter": "SoundCloud'da birşeyler aratın...",
-        "action": "menu:user:https://sc.msx.benzac.de/msx/service.php?type=search"
+        "action": "menu:https://sc.msx.benzac.de/msx/service.php?type=search"
       }
     ]
   }
