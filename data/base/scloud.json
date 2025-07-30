@@ -1,14 +1,16 @@
 {
-  "menu": {
-    "type": "list",
-    "headline": "SoundCloud",
-    "template": {
+   "name": "SoundCloud",
+   "version": "1.0.0",
+   "parameter": "menu:request:init",
+   "type": "list",
+   "headline": "SoundCloud MSX",
+   "template": {
       "type": "separate",
       "layout": "0,0,2,4",
       "icon": "msx-white-soft:music-note",
       "color": "msx-glass"
-    },
-    "items": [
+   },
+   "items": [
       {
         "title": "Trendler",
         "titleFooter": "Trend olan müzikler",
@@ -19,6 +21,5 @@
         "titleFooter": "SoundCloud'da birşeyler aratın...",
         "action": "menu:https://sc.msx.benzac.de/msx/service.php?type=search"
       }
-    ]
-  }
+   ]
 }
