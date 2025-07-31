@@ -2,4 +2,5 @@
     "name": "MiracTheDev TV Kit",
     "version": "BETA.1.1",
     "parameter": "menu:https://{SERVER}/msx/data/menu.json"
+    "note": "Projemizin daha verimli çalışması için, MSX'in 0.1.163+ versiyonunu kullanmanızı öneririz."
 }
