@@ -1,0 +1,20 @@
+{
+   "type": "pages",
+   "headline": "SoundCloud® MSX",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#ff5500",
+               "image": "https://launcher.msx.benzac.de/assets/sc.png",
+               "iconSize": "medium",
+               "title": "SoundCloud® MSX",
+               "titleFooter": "SoundCloud'u MSX'de başlat.",
+               "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+            }
+         ]
+      }
+   ]
+}
