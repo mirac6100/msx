@@ -1,0 +1,19 @@
+{
+    "pages": [
+        {
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": "Yapımcılar (Credits):",
+                    "text": [
+                        "{txt:msx-white:Yapımcı & Yazılımcı:}{br}",
+                        "Miraç Tahircan Yılmaz{br}",
+                        "| {txt:msx-yellow:İyi kullanımlar.} | {br}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
