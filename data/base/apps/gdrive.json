@@ -7,7 +7,7 @@
             {
                "type": "separate",
                "layout": "0,0,2,4",
-               "color": "yellow",
+               "color": "#ebc334",
                "image": "https://launcher.msx.benzac.de/assets/gd.png",
                "iconSize": "medium",
                "title": "Google Drive MSX",
