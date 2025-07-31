@@ -12,7 +12,7 @@
                "iconSize": "medium",
                "title": "Kick",
                "titleFooter": "Kick sitesini panelde başlat.",
-               "action": "menu:https://kick.com"
+               "action": "link:window:https://kick.com"
             }
          ]
       }
