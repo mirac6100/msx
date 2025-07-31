@@ -7,12 +7,12 @@
             {
                "type": "separate",
                "layout": "0,0,2,4",
-               "color": "#ff5500",
+               "color": "yellow",
                "image": "https://launcher.msx.benzac.de/assets/gd.png",
                "iconSize": "medium",
                "title": "Google Drive MSX",
                "titleFooter": "Google Drive'ı MSX'de başlat.",
-               "action": "menu:http://gd.msx.benzac.de"
+               "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
             }
          ]
       }
