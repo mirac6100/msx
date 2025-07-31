@@ -42,6 +42,13 @@
             "label": "SoundCloud for MSX",
             "data": "https://mirac6100.github.io/msx/data/base/apps/scloud.json",
             "background": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2025/05/p-91332060-soundcloud-AI-training.jpg"
+        },
+
+        {
+            "image": "https://launcher.msx.benzac.de/assets/gd.png",
+            "label": "Google Drive for MSX",
+            "data": "https://mirac6100.github.io/msx/data/base/apps/gdrive.json",
+            "background": "https://www.techinside.com/wp-content/uploads/2025/01/google-drive-logo-4.jpg.webp"
         }
     ]
 }
