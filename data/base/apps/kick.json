@@ -1,0 +1,20 @@
+{
+   "type": "pages",
+   "headline": "Kick (BETA)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#54f542",
+               "image": "https://kick.com/favicon.ico",
+               "iconSize": "medium",
+               "title": "Kick",
+               "titleFooter": "Kick sitesini panelde başlat.",
+               "action": "menu:https://kick.com"
+            }
+         ]
+      }
+   ]
+}
