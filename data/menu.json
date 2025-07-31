@@ -52,7 +52,7 @@
         },
 
         {
-            "image": "https://launcher.msx.benzac.de/assets/gd.png",
+            "image": "https://launcher.msx.benzac.de/assets/od.png",
             "label": "OneDrive MSX",
             "data": "https://mirac6100.github.io/msx/data/base/apps/odrive.json",
             "background": "https://s.isanook.com/hi/0/ud/321/1605155/one-drive.jpg?ip/crop/w670h402/q80/jpg"
