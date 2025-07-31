@@ -1,21 +1,15 @@
-# Proje Adı
+# MiracTheDev TV Kit (BETA)
 
-![Proje Resmi](resim-linki.jpg)
+!MiracTheDev'in hazırlamış olduğu TV Kit'e hoşgeldiniz .
 
-## Açıklama
-Projenizin ne yaptığını detayca açıklayın.
-
-## Özellikler
-- Özellik 1
-- Özellik 2
-- Özellik 3
-
-## Teknolojiler
-- HTML
-- CSS
-- JavaScript
+## Amaç
+Bu projenin amacı, Media Station X'de bulunan ve gerekli görünen uygulamaları, araçları ve 
 
 ## Kurulum
-```bash
-git clone https://github.com/kullaniciadi/repo-adi.git
-cd repo-adi
+- Media StationX'i açın.
+- Menu > Settings bölümüne gelin.
+- Settings'de Start Parameter butonuna basın.
+- Açılan panelde alttaki Setup butonuna basın.
+- Açılan yazı girme yerine "mirac6100.github.io" adresini yazın.
+- Complete Start Parameter başlığıyla açılan panelde Yes'e basın.
+- Hazır. İyi kullanımlar!
