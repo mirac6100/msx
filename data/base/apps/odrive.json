@@ -1,0 +1,20 @@
+{
+   "type": "pages",
+   "headline": "OneDrive MSX",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#345eeb",
+               "image": "https://launcher.msx.benzac.de/assets/od.png",
+               "iconSize": "medium",
+               "title": "OneDrive MSX",
+               "titleFooter": "OneDrive'ı MSX'de başlat.",
+               "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
+            }
+         ]
+      }
+   ]
+}
