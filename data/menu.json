@@ -38,9 +38,10 @@
         },
 
         {
-            "icon": "app",
+            "image": "https://launcher.msx.benzac.de/assets/sc.png",
             "label": "SoundCloud for MSX",
-            "data": "https://mirac6100.github.io/msx/data/base/scloud.json"
+            "data": "https://mirac6100.github.io/msx/data/base/scloud.json",
+            "background": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2025/05/p-91332060-soundcloud-AI-training.jpg"
         }
     ]
 }
