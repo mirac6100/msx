@@ -1,0 +1,20 @@
+{
+   "type": "pages",
+   "headline": "Google Drive MSX",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#ff5500",
+               "image": "https://launcher.msx.benzac.de/assets/gd.png",
+               "iconSize": "medium",
+               "title": "Google Drive MSX",
+               "titleFooter": "Google Drive'ı MSX'de başlat.",
+               "action": "menu:http://gd.msx.benzac.de"
+            }
+         ]
+      }
+   ]
+}
