@@ -63,6 +63,13 @@
             "label": "Twitch for MSX",
             "data": "https://mirac6100.github.io/msx/data/base/apps/twitch.json",
             "background": "https://img-0.journaldunet.com/4XDkn0dLD7-KG4q3U7Xi-6S1jxg=/1500x/smart/8dad7a76d11c488e9a44bb04142589c5/ccmcms-jdn/34895692.jpg"
+        },
+
+        {
+            "image": "https://kick.com/favicon.ico",
+            "label": "(BETA) Kick",
+            "data": "https://mirac6100.github.io/msx/data/base/apps/kick.json",
+            "background": "https://streamhatchet.com/wp-content/uploads/2024/05/1-14-400x225.jpg"
         }
     ]
 }
