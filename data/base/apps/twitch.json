@@ -1,0 +1,20 @@
+{
+   "type": "pages",
+   "headline": "Twitch MSX",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "separate",
+               "layout": "0,0,2,4",
+               "color": "#8403fc",
+               "image": "https://launcher.msx.benzac.de/assets/ttv.png",
+               "iconSize": "medium",
+               "title": "Twitch MSX",
+               "titleFooter": "Twitch'i MSX'de başlat.",
+               "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1&dictionary=custom"
+            }
+         ]
+      }
+   ]
+}
