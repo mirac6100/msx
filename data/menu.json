@@ -56,6 +56,13 @@
             "label": "OneDrive MSX",
             "data": "https://mirac6100.github.io/msx/data/base/apps/odrive.json",
             "background": "https://s.isanook.com/hi/0/ud/321/1605155/one-drive.jpg?ip/crop/w670h402/q80/jpg"
+        },
+
+        {
+            "image": "https://launcher.msx.benzac.de/assets/ttv.png",
+            "label": "Twitch MSX",
+            "data": "https://mirac6100.github.io/msx/data/base/apps/twitch.json",
+            "background": "https://img-0.journaldunet.com/4XDkn0dLD7-KG4q3U7Xi-6S1jxg=/1500x/smart/8dad7a76d11c488e9a44bb04142589c5/ccmcms-jdn/34895692.jpg"
         }
     ]
 }
